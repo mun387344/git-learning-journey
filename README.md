@@ -12,27 +12,36 @@ The purpose of this repository is to keep a record of my practice and strengthen
 
 During this learning journey, I practiced:
 
-- Initializing a Git repository
-- Cloning a repository from GitHub
-- Checking repository status
-- Tracking and staging files
-- Using `git add` in different ways
+- Understanding Git, GitHub, and version control
+- Understanding local and remote repositories
+- Creating local projects and repositories
+- Initializing repositories with `git init`
+- Creating remote repositories on GitHub
+- Cloning repositories with `git clone`
+- Checking changes with `git status`
+- Staging files with `git add`
+- Using different `git add` variations
+- Unstaging changes with `git reset`
 - Creating commits with meaningful messages
-- Viewing commit history
-- Resetting staged changes
-- Removing tracked files
-- Working with local and remote repositories
-- Creating and switching between branches
+- Configuring Git username and email
+- Undoing commits with `git reset HEAD`
+- Removing files with `git rm`
+- Stopping Git from tracking files with `git rm --cached`
+- Viewing commit history with `git log`
+- Creating and working with branches
+- Switching branches with `git checkout`
 - Merging branches
 - Resolving merge conflicts
-- Pushing branches to GitHub
-- Fetching and pulling remote changes
-- Using Git stash
-- Reverting commits
+- Checking out previous commits
 - Comparing commits with `git diff`
-- Rebasing branches
-- Working with feature, development, staging, and main branches
-- Practicing the pull request workflow
+- Understanding `git push`, `git fetch`, and `git pull`
+- Pushing local changes to GitHub
+- Fetching and pulling remote changes
+- Discarding local changes with `git restore`
+- Saving unfinished work with `git stash`
+- Undoing commits safely with `git revert`
+- Rebasing branches with `git rebase`
+- Working with pull requests and collaboration
 
 ## 🛠️ Git Commands Practiced
 
