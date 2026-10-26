@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub Hands-on Mastery
+#  Git & GitHub Hands-on Mastery
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
